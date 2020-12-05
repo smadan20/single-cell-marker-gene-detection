@@ -1,4 +1,4 @@
-# single cell RNA-seq marker gene detection
+# Marker gene detection in scRNA-seq data
 
 ### 858D Final Project by: Sanna Madan, Elliott Sloate, Mackenzie Kong-Sivert
 
