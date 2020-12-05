@@ -1,4 +1,4 @@
-# scRNA-seq marker gene detection
+# scRNA-seq Marker Gene Detection
 
 ### 858D Final Project by: Sanna Madan, Elliott Sloate, Mackenzie Kong-Sivert
 
